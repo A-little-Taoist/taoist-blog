@@ -196,9 +196,9 @@ const config = {
     },
     giscus: {
       repo: 'A-Little-Taoist/taoist-blog',
-      repoId: 'R_kgDOJpJzFg',
+      repoId: 'R_kgDOJp-gKA',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJpJzFs4CW05I',
+      categoryId: 'DIC_kwDOJp-gKM4CW34b',
       theme: 'light',
       darkTheme: 'dark',
     },
