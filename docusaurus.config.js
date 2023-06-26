@@ -1,6 +1,6 @@
 const path = require('path')
-//备案号
-// const beian = '-------'
+备案号
+const beian = '渝ICP备20004637号-1'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
